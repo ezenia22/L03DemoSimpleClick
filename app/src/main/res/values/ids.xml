@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnDisplay" type="id" />
+    <item name="tvDisplay" type="id" />
+    <item name="etInput" type="id" />
+    <item name="tgButton" type="id" />
+    <item name="rdGender" type="id" />
+</resources>
